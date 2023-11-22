@@ -127,10 +127,7 @@ public PetView NewEditPet(PetView pet)
 
 	// --- Main Method Logic Section ---
 	#region Method Code
-	PetView newPetView = new();
-	newPetView.PetID = pet.PetID;
-	newPetView.Name = pet.Name;
-	newPetView.Breed = pet.Breed;
+	hjyh
 
 	//	Fake code for adding to database
 	List<PetView> pets = new List<PetView>();
